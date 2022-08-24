@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: blueviolet;
+  color: #fff;
+  padding: 1rem;
+}
+
+.parent-counter {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 800;
+}
+
+.parent-button {
+  padding: 1rem 3rem;
+  font-weight: 600;
+  border-radius: 1rem;
+  font-size: 1rem;
+}
+.child-container {
+  background-color: cadetblue;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.child-title {
+  font-size: 600;
+  margin-top: 1rem;
+}
+.child-counter {
+  font-size: 2rem;
+  margin-top: 1rem;
+}
